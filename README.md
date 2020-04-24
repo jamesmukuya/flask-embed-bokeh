@@ -4,10 +4,10 @@ This example will show you how to embed interactive Bokeh plots in flask/django.
 You will learn how to create a graph and implement a simple html tooltip.
 
 # Tested and Works in windows 8/10 & linux.
-# No custom js is included.
-# I have used tailwindcss for basic styling.
-# I recommend using anaconda when creating environments.
-# Feel free to style and/or make changes to the files and code.
+## No custom js is required.
+## I have used tailwindcss for basic styling.
+## I recommend using anaconda when creating environments.
+## Feel free to style and/or make changes to the files and code.
 
 # How to run in your PC:
 #1. download the repo to your pc
